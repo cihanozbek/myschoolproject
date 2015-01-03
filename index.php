@@ -16,7 +16,7 @@
 	
 	<div class="menu">
 		<a href="?istek=anasayfa">Ana Sayfa</a> 
-		<a href="?istek=RobotNedir">Robot Programlama Nedir?</a> 
+		<a href="?istek=RobotNedir">Robot Programlama?</a> 
 		<a href="?istek=iletisim">İletişim</a> 
 	</div>
  </div>

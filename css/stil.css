@@ -1,0 +1,148 @@
+﻿ 
+html{
+    height: 100%;
+}
+body{
+	margin:auto;
+	background:url('../img/bg.jpg');
+    font-size:1em;
+    font-family:Arial, Helvetica, sans-serif;
+}
+a{ 
+	text-decoration:none;
+}
+#ustBant{
+	width:100%;
+	background:#09030b; 
+}
+#ustAlan {
+ width: 70%;  
+ padding:20px;
+ margin:auto
+}
+#ustAlan a {
+	border-left:1px dotted #cbcbcb;
+	padding-left: 5px;
+	color:#FFF;
+}
+
+#ustAlan a:hover {
+  color : #f87c22; 
+}
+#ustAlan a:first-child{
+  border-left : 0px;
+}
+
+.temizle{ 
+  clear:both;
+}
+.menu{
+	width:35%; 
+	margin:auto;
+	padding-top:10px;
+}
+#logo{
+  margin:auto;
+  width:15em; 
+}
+
+img.logo{
+	width:14em;
+}
+
+.kapsul {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -4em; 
+}
+#solAlan
+{
+    float: left;
+    clear:both;
+    width: 15em;
+    height: 15em;
+    margin-bottom: 1em;
+}
+#icerikAlani
+{
+    background:url("img/bg.jpg") repeat;
+	width:100%;
+	min-height:500px; 
+}
+ 
+#altBant{
+    background-color:#09030b;
+	width:100%; 
+}
+#altAlan{ 
+    color:#fff;
+	height:40px;
+	width:50%;
+	margin:auto;
+	padding-top:5px;
+}
+
+#page{
+	width:70%;  
+	margin:auto;
+	max-width:80%;
+	min-height:500px;
+	font-size:1.3em;
+	color:#f87c22;
+	background:#FFF;
+	line-height:1.6em;
+}
+#page img{ margin:5px;}
+
+#page h2.page-title{
+	padding-bottom:10px;
+	font-weight:bold;
+	border-bottom:1px dotted #aaa;
+}
+#page div.page-date{
+	font-size:0.8em;
+	color:#999; 
+	text-align:right;
+}
+
+.haberler{
+	padding-top:10px;
+	float:left;
+	width:73%;
+	margin-left:10px;
+}
+#page  div.haber h2.page-title{
+  border-bottom:0px;
+  padding-bottom:0px;
+  font-size:1em;
+} 
+
+#page  div.haber p img{
+  width:150px;
+} 
+.devami{ 
+	text-align:right;
+	}
+#page  div.haber {
+  margin-bottom:1.5em;
+} 
+.kategoriler{
+	margin-top:10px;
+	width:13%;
+	float:left;
+}
+.kategoriler ul li a{
+	font-size:1em;
+	color:#999;
+	font-weight:lighter;
+	padding-left:5px;
+}
+.kategoriler ul li a:hover{
+	color:#f87c22;
+}
+.kategoriler ul li:first-child{
+	font-size:1.2em;
+	color:#000;
+	border-bottom:1px dotted #999;
+}
